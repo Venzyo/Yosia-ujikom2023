@@ -1,0 +1,1 @@
+<?php $koneksi=mysqli_connect("localhost","id20432297_pengaduan","Ujianyosia123?","id20432297_pdm"); ?>
